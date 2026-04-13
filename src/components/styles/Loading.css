@@ -16,7 +16,7 @@
   overflow: hidden;
   font-size: 18px;
   font-weight: 500;
-  position: relative;
+  position: relative;git add .
   z-index: 9;
 }
 .loading-button::before {
